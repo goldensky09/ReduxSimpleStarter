@@ -1,0 +1,26 @@
+html {
+  font-size: .9rem;
+}
+
+.search-bar {
+  /* padding: 20px; */
+}
+
+.video-item img {
+  max-width: 30%;
+}
+
+.video-detail .details {
+  /* margin-top: 10px; */
+  padding: 10px;
+  /* border: 1px solid #ddd; */
+  border-radius: 4px;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.list-group-item:hover {
+  background-color: #efefef;
+}
